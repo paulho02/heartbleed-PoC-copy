@@ -54,3 +54,10 @@ docs/_build/
 
 # PyBuilder
 target/
+/.idea/.gitignore
+/.idea/heartbleed-PoC-copy.iml
+/.idea/misc.xml
+/.idea/modules.xml
+/out.txt
+/.idea/inspectionProfiles/profiles_settings.xml
+/.idea/vcs.xml
